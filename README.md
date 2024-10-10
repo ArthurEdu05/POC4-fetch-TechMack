@@ -77,8 +77,11 @@ A função exibirPokemon() é chamada para iniciar o processo de carregamento e 
 ## Observações
 Este projeto utiliza a PokeAPI e, portanto, requer uma conexão com a internet para buscar as informações dos Pokémons.
 
-## Imagens do Projeto 
-
+### Imagens do Projeto 
+## ![Pokemons](https://github.com/ArthurEdu05/POC4-fetch-TechMack/blob/main/Imagens%20da%20Api/apiPokemon.png)
+## ![Async/Await](https://github.com/ArthurEdu05/POC4-fetch-TechMack/blob/main/Imagens%20da%20Api/api2.png)
+## ![Exemplo de um Card](https://github.com/ArthurEdu05/POC4-fetch-TechMack/blob/main/Imagens%20da%20Api/api3.png)
+ ![Lista Executada](https://github.com/ArthurEdu05/POC4-fetch-TechMack/blob/main/Imagens%20da%20Api/api4.png)
 
 ## Tecnologias Utilizadas 
 - HTML5
