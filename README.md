@@ -3,7 +3,10 @@ Este projeto é uma aplicação web simples que exibe informações detalhadas s
 ## Funcionalidades
 - Exibir cartões com informações detalhadas sobre cada um dos primeiros 151 Pokémons.
 - Redirecionar o usuário para a página index.html ao clicar em um botão "Voltar".
-
+# Estrutura do Projeto
+- index.html: Estrutura básica contendo o conteúdo da API
+- api.js: Contém os dados com informações de 151 Pokémons
+- api.css: Estilização da pagina que contém os dados da API
 # Estrutura do Código 
 ### 1. Redicionamento com botão
    ``` js
@@ -87,6 +90,7 @@ Este projeto utiliza a PokeAPI e, portanto, requer uma conexão com a internet p
 - HTML5
 - JavaScript (ES6+)
 - PokeAPI para obter dados dos Pokémons
+- CSS
 
 ## Autores
 - Arthur Eduardo - 10437356
